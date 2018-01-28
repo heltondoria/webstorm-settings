@@ -3,23 +3,15 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/talyssonoc/node-api-boilerplate.git" />
+          <option name="url" value="https://heltoncosta-tvglobo.visualstudio.com/_git/SDHC-Frontend" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Microsoft/TypeScript-Node-Starter.git" />
+          <option name="url" value="https://heltoncosta-tvglobo.visualstudio.com/_git/talento-service" />
           <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/nestjs/typescript-starter.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://heltoncosta-tvglobo.visualstudio.com" />
-          <option name="userName" value="helton.costa@tvglobo.com.br" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/nodejs" />
+    <option name="cloneParentDir" value="C:\Users\helto\projetos\node.js" />
   </component>
 </application>
