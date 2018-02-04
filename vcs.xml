@@ -14,6 +14,14 @@
           <option name="url" value="https://heltoncosta-tvglobo.visualstudio.com/_git/talentos-service" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://heltoncosta-tvglobo.visualstudio.com/_git/contato-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://tvglobo.visualstudio.com/Recursos_Artisticos/_git/contato_service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\helto\projetos\node.js" />
