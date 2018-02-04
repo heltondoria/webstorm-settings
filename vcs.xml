@@ -15,10 +15,6 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://heltoncosta-tvglobo.visualstudio.com/_git/contato-service" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="https://tvglobo.visualstudio.com/Recursos_Artisticos/_git/contato_service" />
           <option name="userName" value="" />
         </UrlAndUserName>
