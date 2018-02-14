@@ -1,0 +1,92 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/async" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/body-parser" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/chai" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/compression" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/cookie-parser" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/cors" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/del" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/express" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/express-jwt" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/express-winston" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/gulp" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/gulp-load-plugins" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/helmet" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/http-status" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/joi" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jsonwebtoken" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/method-override" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/morgan" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mysql" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/run-sequence" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/supertest-as-promised" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/winston" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
