@@ -3,7 +3,7 @@
     <DockerRegistry email="helton.doria@gmail.com">
       <option name="address" value="registry.hub.docker.com" />
       <option name="name" value="Docker Registry" />
-      <option name="username" value="helton.doria" />
+      <option name="username" value="heltondoria" />
     </DockerRegistry>
   </component>
 </application>
