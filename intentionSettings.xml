@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Convert arrow function to anonymous function" />
+    <ignoreAction name="JavaScript/Other/Replace Single-Quoted String with Double-Quoted String" />
+  </component>
+</application>
