@@ -1,0 +1,16 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://gitlab.com/" />
+    <option name="token" value="SctKyTssYELrqSsHxzoA" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/tvg.recursosartisticos.arquitetura/contato_service.git" />
+          <option name="name" value="contato_service" />
+          <option name="namespace" value="tvglobo.recursosartisticos" />
+          <option name="sshUrl" value="git@gitlab.com:tvg.recursosartisticos.arquitetura/contato_service.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
