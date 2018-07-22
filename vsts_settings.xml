@@ -19,6 +19,15 @@
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
         </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://heltoncosta-tvglobo.visualstudio.com/agra-legado-service/_git/agra-legado-service" />
+          <option name="serverUri" value="https://heltoncosta-tvglobo.visualstudio.com" />
+          <option name="userId" value="79918338-93b7-66c1-a27a-14909e898d2d" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;3bbd9447-6f50-42ce-b87d-7a726bc3f9cb&quot;,&quot;name&quot;:&quot;heltoncosta-tvglobo&quot;,&quot;url&quot;:&quot;https://heltoncosta-tvglobo.visualstudio.com/_apis/projectCollections/3bbd9447-6f50-42ce-b87d-7a726bc3f9cb&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;7070c0c4-40b0-4155-94a5-fcd6c4b507fd&quot;,&quot;name&quot;:&quot;agra-legado-service&quot;,&quot;revision&quot;:56,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://heltoncosta-tvglobo.visualstudio.com/_apis/projects/7070c0c4-40b0-4155-94a5-fcd6c4b507fd&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;03d4293d-7207-4995-b975-a118056a0422&quot;,&quot;name&quot;:&quot;agra-legado-service&quot;,&quot;remoteUrl&quot;:&quot;https://heltoncosta-tvglobo.visualstudio.com/agra-legado-service/_git/agra-legado-service&quot;,&quot;url&quot;:&quot;https://heltoncosta-tvglobo.visualstudio.com/7070c0c4-40b0-4155-94a5-fcd6c4b507fd/_apis/git/repositories/03d4293d-7207-4995-b975-a118056a0422&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;7070c0c4-40b0-4155-94a5-fcd6c4b507fd&quot;,&quot;name&quot;:&quot;agra-legado-service&quot;,&quot;revision&quot;:56,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://heltoncosta-tvglobo.visualstudio.com/_apis/projects/7070c0c4-40b0-4155-94a5-fcd6c4b507fd&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
       </array>
     </option>
     <option name="properties">
@@ -29,7 +38,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//heltoncosta-tvglobo.visualstudio.com/node-sailor-project/_git/node-sailor-project" />
+          <option name="value" value="//heltoncosta-tvglobo.visualstudio.com/agra-legado-service/_git/agra-legado-service" />
         </PropertyState>
       </array>
     </option>

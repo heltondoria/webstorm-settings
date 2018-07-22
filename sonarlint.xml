@@ -3,9 +3,9 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://localhost:9000" />
-          <token>dfccdfcfdfccdf9cdf9bdf9ddf98dfcbdf9fdfc8df9fdf9edf9bdfc8dfcbdf9ddfccdf92df9ddfcfdf9edf93dfccdf9adf9adfc8df9ddfcfdf98df92df92df92dfcbdf9edfcfdf9adf99df9cdf9bdfce</token>
-          <option name="name" value="SonarQube" />
+          <option name="hostUrl" value="http://54.88.142.175" />
+          <token>dfc8dfcbdf98df9fdf9bdf93dfccdfcedfccdfc8df9ddfcbdf9cdf9ddfc8dfc9dfcbdf9cdf9fdf9bdf9ddf9adf9fdfc9dfc9df98dfc9dfcedf9fdf9adf9fdf98df93df9bdfcbdfcfdfccdf92df9adf9b</token>
+          <option name="name" value="SonarQube - Recursos Artísticos" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
