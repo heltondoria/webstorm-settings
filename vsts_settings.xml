@@ -12,14 +12,6 @@
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;25136f6f-848f-4118-b626-7ea1c9c719f0&quot;,&quot;name&quot;:&quot;node-sailor-project&quot;,&quot;remoteUrl&quot;:&quot;https://heltoncosta-tvglobo.visualstudio.com/node-sailor-project/_git/node-sailor-project&quot;,&quot;url&quot;:&quot;https://heltoncosta-tvglobo.visualstudio.com/dd92e553-7fca-4cc6-b8a4-9ddd71c0002e/_apis/git/repositories/25136f6f-848f-4118-b626-7ea1c9c719f0&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;dd92e553-7fca-4cc6-b8a4-9ddd71c0002e&quot;,&quot;name&quot;:&quot;node-sailor-project&quot;,&quot;revision&quot;:67,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://heltoncosta-tvglobo.visualstudio.com/_apis/projects/dd92e553-7fca-4cc6-b8a4-9ddd71c0002e&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
         <ServerContextState>
-          <option name="type" value="VSO_DEPLOYMENT" />
-          <option name="uri" value="https://app.vssps.visualstudio.com" />
-          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
-          <option name="userId" value="79918338-93b7-66c1-a27a-14909e898d2d" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
           <option name="type" value="VSO" />
           <option name="uri" value="https://heltoncosta-tvglobo.visualstudio.com/agra-legado-service/_git/agra-legado-service" />
           <option name="serverUri" value="https://heltoncosta-tvglobo.visualstudio.com" />
